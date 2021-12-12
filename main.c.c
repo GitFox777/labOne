@@ -10,7 +10,7 @@ int main()
     
     printf ("Введите переменную x,y,z \n");
     scanf ("%f,%f,%f",&x,&y,&z);
-    
+    dfv
     a= pow(9+ (pow(x-y,2)),0.333333);
     b= pow(x,2)+pow(y,2)+2;
     c= a/b;
@@ -18,9 +18,9 @@ int main()
     d= exp(fabs(x-y));
     g= d*e;
     s= c-g;
-    
+    r
     printf ("Ответ: a = %f",a);
-    printf ("Ответ: b = %f",b);
+ dvt   printf ("Ответ: b = %f",b);
     printf ("Ответ: e = %f",e);
     printf ("Ответ: d = %f",d);
     printf ("Ответ: s = %f",s);
